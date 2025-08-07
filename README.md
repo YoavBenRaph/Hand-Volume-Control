@@ -2,7 +2,7 @@
 
 ## 🖐️ Gesture-Based Volume Control with OpenCV & MediaPipe
 
--Control your system volume using hand gestures captured via webcam! This project uses **MediaPipe** for hand tracking and **Pycaw** to interface with the system's audio settings.
+- Control your system volume using hand gestures captured via webcam! This project uses **MediaPipe** for hand tracking and **Pycaw** to interface with the system's audio settings.
 
 ## 🎯 Features
 
