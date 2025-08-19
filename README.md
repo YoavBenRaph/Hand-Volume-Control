@@ -1,4 +1,4 @@
-# Hand Volume Control
+# Gesture Volume Control
 
 ## 🖐️ Gesture-Based Volume Control with OpenCV & MediaPipe
 
